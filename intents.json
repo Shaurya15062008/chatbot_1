@@ -1,0 +1,9 @@
+{"intents": [
+    {"tag":["greetings"], 
+     "patterns": ["Hello, how are you", "Hey, how do you do" , "Hi, whats up?", "Good Morning, how's your day going?"],
+     "responses": ["Hi, how can i help you", "Hi Shaurya! What's up?"]
+    }
+  ]
+}
+
+    
